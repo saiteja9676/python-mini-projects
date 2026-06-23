@@ -1,4 +1,4 @@
- # Cafe Ordering System (Python)
+ # Cafe Ordering System
 
 A beginner-friendly Python project that simulates a cafe ordering system. This project was developed step-by-step by adding new features in each version.
 
